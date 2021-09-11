@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AQ Multiattack Roller", "AQ Multiattack Roller\AQ Multiattack Roller.pyproj", "{51C27E33-2C6F-47F2-82DD-3ED921BE662B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C27E33-2C6F-47F2-82DD-3ED921BE662B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C27E33-2C6F-47F2-82DD-3ED921BE662B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25D93208-A322-4396-93B5-B81DF637D7A9}
+	EndGlobalSection
+EndGlobal
